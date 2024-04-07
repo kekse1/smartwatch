@@ -22,7 +22,8 @@ with the original, animated `.webp` images (plus some transparency added in ther
 * [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake First Try`**](#cake-first-try)
 * [**`Cake Uno`**](#cake-uno)
-* [**`Cake View`**](#cake-view)
+* [**`Cake View v2`**](#cake-view-v2)
+* [**`Cake View v1`**](#cake-view-v1)
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                       |
@@ -78,14 +79,23 @@ with the original, animated `.webp` images (plus some transparency added in ther
 | Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                         |
 | Preview     | <a href="img/png/Cake Uno.png"><img src="img/webp/Cake Uno.webp" alt="Cake Uno" /></a>                      |
 
-#### **`Cake View`**
+#### **`Cake View v2`**
+| Key         | Value                                                                                                       |
+| ----------: | :---------------------------------------------------------------------------------------------------------- |
+| Created     | **2024-04-07**                                                                                              |
+| Updated     | **-/-**                                                                                                     |
+| Description | `(Maybe) better Version than the v1, since some fonts seems to be broken there..`                           |
+| Website     | [`KxexBbAF1t`](https://www.facer.io/watchface/KxexBbAF1t?watchModel=fossilqmarshal)                         |
+| Preview     | <a href="img/png/Cake View v2.png"><img src="img/webp/Cake View v2.webp" alt="Cake View v2" /></a>          |
+
+#### **`Cake View v1`**
 | Key         | Value                                                                                                       |
 | ----------: | :---------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-04-07**                                                                                              |
 | Updated     | **-/-**                                                                                                     |
 | Description | `My latest attempt.. everything at a glance.`                                                               |
 | Website     | [`Nweys4XfJc`](https://www.facer.io/watchface/Nweys4XfJc?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/png/Cake View.png"><img src="img/webp/Cake View.webp" alt="Cake View" /></a>                   |
+| Preview     | <a href="img/png/Cake View v1.png"><img src="img/webp/Cake View v1.webp" alt="Cake View v1" /></a>          |
 
 
 # Copyright and License
