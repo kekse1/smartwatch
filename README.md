@@ -92,7 +92,7 @@ with the original, animated `.webp` images (plus some transparency added in ther
 | Key         | Value                                                                                                       |
 | ----------: | :---------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-04-07**                                                                                              |
-| Updated     | **-/-**                                                                                                     |
+| Updated     | **2024-04-07**                                                                                              |
 | Description | `My latest attempt.. everything at a glance.`                                                               |
 | Website     | [`Nweys4XfJc`](https://www.facer.io/watchface/Nweys4XfJc?watchModel=fossilqmarshal)                         |
 | Preview     | <a href="img/png/Cake View v1.png"><img src="img/webp/Cake View v1.webp" alt="Cake View v1" /></a>          |
