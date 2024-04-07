@@ -17,13 +17,13 @@ I'm presenting also on my [private website](https://kekse.biz/?~watch) and my
 I made them 'from scratch', as usual. Some are better, some are merely tryouts.. here they are,
 with the original, animated `.webp` images (plus some transparency added in there).
 
-* [**`Cake Rotate v2`**]()
-* [**`Cake Rotate v1`**]()
-* [**`Cake Binary`**]()
-* [**`Cake Second Try`**]()
-* [**`Cake First Try`**]()
-* [**`Cake Uno`**]()
-* [**`Cake View`**]()
+* [**`Cake Rotate v2`**](#cake-rotate-v2)
+* [**`Cake Rotate v1`**](#cake-rotate-v1)
+* [**`Cake Binary`**](#cake-binary)
+* [**`Cake Second Try`**](#cake-second-try)
+* [**`Cake First Try`**](#cake-first-try)
+* [**`Cake Uno`**](#cake-uno)
+* [**`Cake View`**](#cake-view)
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                       |
