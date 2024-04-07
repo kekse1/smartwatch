@@ -1,9 +1,7 @@
 <img src="https://kekse.biz/github.php?draw&override=github:smartwatch" />
 
 # My **Smartwatch**
-My mother has bought me a smartwatch to my birthday (2023); so I own
-a [Xiaomi Watch 2 Pro](https://www.mi.com/de/product/xiaomi-watch-2-pro/)
-(see also my [**hardware 'tree'**](https://kekse.biz/?~hardware)).
+My mother has bought me a smartwatch to my birthday (2023); so I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 
 ## Watch Faces
 Since I wanted a special watch face design, I decided to create my own one(s).
