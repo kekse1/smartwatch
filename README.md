@@ -8,10 +8,11 @@ a [Xiaomi Watch 2 Pro](https://www.mi.com/de/product/xiaomi-watch-2-pro/)
 ## Watch Faces
 Since I wanted a special watch face design, I decided to create my own one(s).
 
-So I came up to [**facer.io**](https://facer.io/). There you can design such for free (even if
-not everything is for free there). Now I've designed seven watch faces (**2024-04-07**) which
-I'm presenting also on my [private website](https://kekse.biz/?~watch) and my
-[Facer 'kekse' profile](https://www.facer.io/u/kekse). And NOW also here..
+So I came up to [**facer.io**](https://facer.io/). There you can design as many as you want
+absolutely for free (even if not everything is for free there).
+
+Now (**2024-04-07**) I've designed **seven** watch faces, which I'm also presenting on my
+[private website](https://kekse.biz/?~watch) and my [Facer 'kekse' profile](https://www.facer.io/u/kekse).
 
 ### My "**Cake Collection**"
 I made them 'from scratch', as usual. Some are better, some are merely tryouts.. here they are,
