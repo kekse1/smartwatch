@@ -17,11 +17,14 @@ I'm presenting also on my [private website](https://kekse.biz/?~watch) and my
 I made them 'from scratch', as usual. Some are better, some are merely tryouts.. here they are,
 with the original, animated `.webp` images (plus some transparency added in there).
 
-Created: **2023-12-28**
-Updated: **2024-02-21**
-Description: `Better version of the original 'Cake Rotate v1'`
-View: [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)
-<a href="img/png/Cake Rotate v2.png"><img src="img/webp/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>
+#### **`Cake Rotate v2`**
+| Key         | Value                                                                                                    |
+| ----------: | :------------------------------------------------------------------------------------------------------- |
+| Created     | **2023-12-28**                                                                                           |
+| Updated     | **2024-02-21**                                                                                           |
+| Description | `Better version of the original 'Cake Rotate v1'`                                                        |
+| View        | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                      |
+| Preview     | <a href="img/png/Cake Rotate v2.png"><img src="img/webp/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a> |
 
 #### **`Cake Rotate v1`**
 Created: **2023-12-26**
