@@ -17,12 +17,12 @@ I made them 'from scratch', as usual. Some are better, some are merely tryouts..
 with the original, animated `.webp` images (plus some transparency added in there).
 
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
-* [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake View`**](#cake-view)
 * [**`Cake Second Try`**](#cake-second-try)
-* [**`Cake First Try`**](#cake-first-try)
 * [**`Cake Uno`**](#cake-uno)
+* [**`Cake Rotate v1`**](#cake-rotate-v1)
+* [**`Cake First Try`**](#cake-first-try)
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                       |
@@ -32,15 +32,6 @@ with the original, animated `.webp` images (plus some transparency added in ther
 | Description | `Better version of the original 'Cake Rotate v1'`                                                           |
 | Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                         |
 | Preview     | <a href="img/Cake Rotate v2.png"><img src="img/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>             |
-
-#### **`Cake Rotate v1`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **2023-12-26**                                                                                              |
-| Updated     | **2024-02-21**                                                                                              |
-| Description | `Something new after Christmas, before the new year arrives..`                                              |
-| Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake Rotate v1.png"><img src="img/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>             |
 
 #### **`Cake Binary`**
 | Key         | Value                                                                                                       |
@@ -69,15 +60,6 @@ with the original, animated `.webp` images (plus some transparency added in ther
 | Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                         |
 | Preview     | <a href="img/Cake Second Try.png"><img src="img/Cake Second Try.webp" alt="Cake Second Try" /></a>          |
 
-#### **`Cake First Try`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **10/2023**                                                                                                 |
-| Updated     | **2024-01-08**                                                                                              |
-| Description | `My first try in making a watch face. Really not perfect..`                                                 |
-| Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake First Try.png"><img src="img/Cake First Try.webp" alt="Cake First Try" /></a>             |
-
 #### **`Cake Uno`**
 | Key         | Value                                                                                                       |
 | ----------: | :---------------------------------------------------------------------------------------------------------- |
@@ -87,6 +69,23 @@ with the original, animated `.webp` images (plus some transparency added in ther
 | Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                         |
 | Preview     | <a href="img/Cake Uno.png"><img src="img/Cake Uno.webp" alt="Cake Uno" /></a>                               |
 
+#### **`Cake Rotate v1`**
+| Key         | Value                                                                                                       |
+| ----------: | :---------------------------------------------------------------------------------------------------------- |
+| Created     | **2023-12-26**                                                                                              |
+| Updated     | **2024-02-21**                                                                                              |
+| Description | `Something new after Christmas, before the new year arrives..`                                              |
+| Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                         |
+| Preview     | <a href="img/Cake Rotate v1.png"><img src="img/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>             |
+
+#### **`Cake First Try`**
+| Key         | Value                                                                                                       |
+| ----------: | :---------------------------------------------------------------------------------------------------------- |
+| Created     | **10/2023**                                                                                                 |
+| Updated     | **2024-01-08**                                                                                              |
+| Description | `My first try in making a watch face. Really not perfect..`                                                 |
+| Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                         |
+| Preview     | <a href="img/Cake First Try.png"><img src="img/Cake First Try.webp" alt="Cake First Try" /></a>             |
 
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
