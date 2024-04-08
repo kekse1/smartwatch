@@ -16,13 +16,22 @@ Now (**2024-04-07**) I've designed **seven** watch faces, which I'm also present
 I made them 'from scratch', as usual. Some are better, some are merely tryouts.. here they are,
 with the original, animated `.webp` images (plus some transparency added in there).
 
+* [**`Cake View`**](#cake-view)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Binary`**](#cake-binary)
-* [**`Cake View`**](#cake-view)
 * [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake Uno`**](#cake-uno)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake First Try`**](#cake-first-try)
+
+#### **`Cake View`**
+| Key         | Value                                                                                                       |
+| ----------: | :---------------------------------------------------------------------------------------------------------- |
+| Created     | **2024-04-07**                                                                                              |
+| Updated     | **-/-**                                                                                                     |
+| Description | `My latest attempt.. everything at a glance.`                                                               |
+| Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                         |
+| Preview     | <a href="img/Cake View.png"><img src="img/Cake View.webp" alt="Cake View" /></a>                            |
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                       |
@@ -41,15 +50,6 @@ with the original, animated `.webp` images (plus some transparency added in ther
 | Description | `For the geeks/nerds: binary digit system.`                                                                 |
 | Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                         |
 | Preview     | <a href="img/Cake Binary.png"><img src="img/Cake Binary.webp" alt="Cake Binary" /></a>                      |
-
-#### **`Cake View`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **2024-04-07**                                                                                              |
-| Updated     | **-/-**                                                                                                     |
-| Description | `My latest attempt.. everything at a glance.`                                                               |
-| Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake View.png"><img src="img/Cake View.webp" alt="Cake View" /></a>                            |
 
 #### **`Cake Second Try`**
 | Key         | Value                                                                                                       |
