@@ -19,11 +19,10 @@ with the original, animated `.webp` images (plus some transparency added in ther
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake Binary`**](#cake-binary)
+* [**`Cake View`**](#cake-view)
 * [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake First Try`**](#cake-first-try)
 * [**`Cake Uno`**](#cake-uno)
-* [**`Cake View v2`**](#cake-view-v2)
-* [**`Cake View v1`**](#cake-view-v1)
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                       |
