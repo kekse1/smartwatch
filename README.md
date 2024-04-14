@@ -16,7 +16,7 @@ Now (**2024-04-07**) I've designed **seven** watch faces, which I'm also present
 I made them 'from scratch', as usual. Some are better, some are merely tryouts.. here they are,
 with the original, animated `.webp` images (plus some transparency added in there).
 
-* [**`Cake View`**](#cake-view)
+* [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake Second Try`**](#cake-second-try)
@@ -24,14 +24,14 @@ with the original, animated `.webp` images (plus some transparency added in ther
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake First Try`**](#cake-first-try)
 
-#### **`Cake View`**
+#### **`Cake View v2`**
 | Key         | Value                                                                                                       |
 | ----------: | :---------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-04-07**                                                                                              |
-| Updated     | **-/-**                                                                                                     |
-| Description | `My latest attempt.. everything at a glance.`                                                               |
+| Updated     | **2024-04-14**                                                                                              |
+| Description | `My latest attempt.. everything at a glance. **Second version** now!                                        |
 | Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake View.png"><img src="img/Cake View.webp" alt="Cake View" /></a>                            |
+| Preview     | <a href="img/Cake View v2.webp"><img src="img/Cake View v2.webp" alt="Cake View v2" /></a>                  |
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                       |
