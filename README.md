@@ -35,7 +35,7 @@ with the original, animated `.webp` images (plus some transparency added in ther
 | Updated     | **2024-04-14**                                                                                              |
 | Description | `My latest attempt.. everything at a glance. **Second version**!                                            |
 | Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/webp/Cake View v2.webp"><img src="img/webp/Cake View v2.webp" alt="Cake View v2" /></a>        |
+| Preview     | <a href="images/Cake View v2.webp"><img src="images/Cake View v2.webp" alt="Cake View v2" /></a>            |
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                       |
