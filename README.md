@@ -3,14 +3,18 @@
 # My **Smartwatch**
 My mother has bought me a smartwatch to my birthday (2023); so I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 
+## News
+* \[**2024-04-14**\] Updated [`Cake View`](#cake-view-v2) to **v2**!! :-D
+* \[**2024-04-07**\] Now I've designed **seven** watch faces in total!
+
 ## Watch Faces
 Since I wanted a special watch face design, I decided to create my own one(s).
 
 So I came up to [**facer.io**](https://facer.io/). There you can design as many as you want
 absolutely for free (even if not everything is for free there).
 
-Now (**2024-04-07**) I've designed **seven** watch faces, which I'm also presenting on my
-[private website](https://kekse.biz/?~watch) and my [Facer 'kekse' profile](https://www.facer.io/u/kekse).
+I'm also presenting them on my [private website](https://kekse.biz/?~smartwatch),
+and on my [Facer **kekse** profile](https://www.facer.io/u/kekse).
 
 ### My "**Cake Collection**"
 I made them 'from scratch', as usual. Some are better, some are merely tryouts.. here they are,
@@ -29,9 +33,9 @@ with the original, animated `.webp` images (plus some transparency added in ther
 | ----------: | :---------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-04-07**                                                                                              |
 | Updated     | **2024-04-14**                                                                                              |
-| Description | `My latest attempt.. everything at a glance. **Second version** now!                                        |
+| Description | `My latest attempt.. everything at a glance. **Second version**!                                            |
 | Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake View v2.webp"><img src="img/Cake View v2.webp" alt="Cake View v2" /></a>                  |
+| Preview     | <a href="img/webp/Cake View v2.webp"><img src="img/webp/Cake View v2.webp" alt="Cake View v2" /></a>        |
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                       |
