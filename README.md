@@ -4,7 +4,7 @@
 My mother has bought me a smartwatch to my birthday (2023); so I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 
 ## News
-* \[**2024-04-14**\] Updated [`Cake View`](#cake-view-v2) to **v2**!! :-D
+* \[**2024-04-15**\] Updated [`Cake View`](#cake-view-v2) to **v2**!! And replaced all pictures (here and on [my web site](https://kekse.biz/?~smartwatch));
 * \[**2024-04-07**\] Now I've designed **seven** watch faces in total!
 
 ## Watch Faces
@@ -29,67 +29,67 @@ with the original, animated `.webp` images (plus some transparency added in ther
 * [**`Cake First Try`**](#cake-first-try)
 
 #### **`Cake View v2`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **2024-04-07**                                                                                              |
-| Updated     | **2024-04-14**                                                                                              |
-| Description | `My latest attempt.. everything at a glance. **Second version**!                                            |
-| Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="images/Cake View v2.webp"><img src="images/Cake View v2.webp" alt="Cake View v2" /></a>            |
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2024-04-07**                                                                                                    |
+| Updated     | **2024-04-14**                                                                                                    |
+| Description | `My latest attempt.. everything at a glance. **Second version**!                                                  |
+| Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                               |
+| Preview     | <a href="images/png/Cake View v2.png"><img src="images/webp/Cake View v2.webp" alt="Cake View v2" /></a>          |
 
 #### **`Cake Rotate v2`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **2023-12-28**                                                                                              |
-| Updated     | **2024-02-21**                                                                                              |
-| Description | `Better version of the original 'Cake Rotate v1'`                                                           |
-| Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake Rotate v2.png"><img src="img/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>             |
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2023-12-28**                                                                                                    |
+| Updated     | **2024-02-21**                                                                                                    |
+| Description | `Better version of the original 'Cake Rotate v1'`                                                                 |
+| Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                               |
+| Preview     | <a href="images/png/Cake Rotate v2.png"><img src="images/webp/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>    |
 
 #### **`Cake Binary`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **2023-11-20**                                                                                              |
-| Updated     | **2024-01-01**                                                                                              |
-| Description | `For the geeks/nerds: binary digit system.`                                                                 |
-| Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake Binary.png"><img src="img/Cake Binary.webp" alt="Cake Binary" /></a>                      |
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2023-11-20**                                                                                                    |
+| Updated     | **2024-01-01**                                                                                                    |
+| Description | `For the geeks/nerds: binary digit system.`                                                                       |
+| Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                               |
+| Preview     | <a href="images/png/Cake Binary.png"><img src="images/webp/Cake Binary.webp" alt="Cake Binary" /></a>             |
 
 #### **`Cake Second Try`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **10/2023**                                                                                                 |
-| Updated     | **2024-01-08**                                                                                              |
-| Description | `This is what I'm currently using on my own smartwatch.`                                                    |
-| Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake Second Try.png"><img src="img/Cake Second Try.webp" alt="Cake Second Try" /></a>          |
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **10/2023**                                                                                                       |
+| Updated     | **2024-01-08**                                                                                                    |
+| Description | `This is what I'm currently using on my own smartwatch.`                                                          |
+| Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                               |
+| Preview     | <a href="images/png/Cake Second Try.png"><img src="images/webp/Cake Second Try.webp" alt="Cake Second Try" /></a> |
 
 #### **`Cake Uno`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **11/2023**                                                                                                 |
-| Updated     | **2024-01-01**                                                                                              |
-| Description | `Similar to the watches with only one hand, but a bit optimized..`                                          |
-| Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake Uno.png"><img src="img/Cake Uno.webp" alt="Cake Uno" /></a>                               |
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **11/2023**                                                                                                       |
+| Updated     | **2024-01-01**                                                                                                    |
+| Description | `Similar to the watches with only one hand, but a bit optimized..`                                                |
+| Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
+| Preview     | <a href="images/png/Cake Uno.png"><img src="images/webp/Cake Uno.webp" alt="Cake Uno" /></a>                      |
 
 #### **`Cake Rotate v1`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **2023-12-26**                                                                                              |
-| Updated     | **2024-02-21**                                                                                              |
-| Description | `Something new after Christmas, before the new year arrives..`                                              |
-| Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake Rotate v1.png"><img src="img/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>             |
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2023-12-26**                                                                                                    |
+| Updated     | **2024-02-21**                                                                                                    |
+| Description | `Something new after Christmas, before the new year arrives..`                                                    |
+| Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                               |
+| Preview     | <a href="images/png/Cake Rotate v1.png"><img src="images/webp/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>    |
 
 #### **`Cake First Try`**
-| Key         | Value                                                                                                       |
-| ----------: | :---------------------------------------------------------------------------------------------------------- |
-| Created     | **10/2023**                                                                                                 |
-| Updated     | **2024-01-08**                                                                                              |
-| Description | `My first try in making a watch face. Really not perfect..`                                                 |
-| Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                         |
-| Preview     | <a href="img/Cake First Try.png"><img src="img/Cake First Try.webp" alt="Cake First Try" /></a>             |
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **10/2023**                                                                                                       |
+| Updated     | **2024-01-08**                                                                                                    |
+| Description | `My first try in making a watch face. Really not perfect..`                                                       |
+| Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                               |
+| Preview     | <a href="images/png/Cake First Try.png"><img src="images/webp/Cake First Try.webp" alt="Cake First Try" /></a>    |
 
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
