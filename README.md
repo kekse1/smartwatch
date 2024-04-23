@@ -16,9 +16,9 @@ absolutely for free (even if not everything is for free there).
 I'm also presenting them on my [private website](https://kekse.biz/?~smartwatch),
 and on my [Facer **kekse** profile](https://www.facer.io/u/kekse).
 
-### My "**Cake Collection**"
-I made them 'from scratch', as usual. Some are better, some are merely tryouts.. here they are,
-with the original, animated `.webp` images (plus some transparency added in there).
+### My ["**Cake Design**" Collection](https://www.facer.io/collection/cake-collection-8e8db4066b)
+I made them 'from scratch', as usual. Some are better, some are merely tryouts..
+here they are, with the original, animated `.webp` images (plus some transparency).
 
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
