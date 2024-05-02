@@ -33,7 +33,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-04-07**                                                                                                    |
 | Updated     | **2024-04-14**                                                                                                    |
-| Description | `My latest attempt.. everything at a glance. **Second version**!                                                  |
+| Description | My latest attempt.. everything at a glance. **Second version**!                                                   |
 | Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake View v2.png"><img src="images/webp/Cake View v2.webp" alt="Cake View v2" /></a>          |
 
@@ -42,7 +42,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-12-28**                                                                                                    |
 | Updated     | **2024-02-21**                                                                                                    |
-| Description | `Better version of the original 'Cake Rotate v1'`                                                                 |
+| Description | Better version of the original 'Cake Rotate v1'                                                                   |
 | Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake Rotate v2.png"><img src="images/webp/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>    |
 
@@ -51,7 +51,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-11-20**                                                                                                    |
 | Updated     | **2024-01-01**                                                                                                    |
-| Description | `For the geeks/nerds: binary digit system.`                                                                       |
+| Description | For the geeks/nerds: binary digit system.                                                                         |
 | Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake Binary.png"><img src="images/webp/Cake Binary.webp" alt="Cake Binary" /></a>             |
 
@@ -60,7 +60,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **10/2023**                                                                                                       |
 | Updated     | **2024-01-08**                                                                                                    |
-| Description | `This is what I'm currently using on my own smartwatch.`                                                          |
+| Description | This is what I'm currently using on my own smartwatch.                                                            |
 | Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake Second Try.png"><img src="images/webp/Cake Second Try.webp" alt="Cake Second Try" /></a> |
 
@@ -69,7 +69,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **11/2023**                                                                                                       |
 | Updated     | **2024-01-01**                                                                                                    |
-| Description | `Similar to the watches with only one hand, but a bit optimized..`                                                |
+| Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
 | Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake Uno.png"><img src="images/webp/Cake Uno.webp" alt="Cake Uno" /></a>                      |
 
@@ -78,7 +78,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-12-26**                                                                                                    |
 | Updated     | **2024-02-21**                                                                                                    |
-| Description | `Something new after Christmas, before the new year arrives..`                                                    |
+| Description | Something new after Christmas, before the new year arrives..                                                      |
 | Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake Rotate v1.png"><img src="images/webp/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>    |
 
@@ -87,7 +87,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **10/2023**                                                                                                       |
 | Updated     | **2024-01-08**                                                                                                    |
-| Description | `My first try in making a watch face. Really not perfect..`                                                       |
+| Description | My first try in making a watch face. Really not perfect..                                                         |
 | Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake First Try.png"><img src="images/webp/Cake First Try.webp" alt="Cake First Try" /></a>    |
 
@@ -96,3 +96,4 @@ The Copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
 and it's licensed under the [MIT](LICENSE.txt) (also known as 'X' or 'X11' license).
 
 ![kekse.biz](favicon.png)
+
