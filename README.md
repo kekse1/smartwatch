@@ -68,7 +68,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **11/2023**                                                                                                       |
-| Updated     | **2024-04-17**                                                                                                    |
+| Updated     | **2024-05-08**                                                                                                    |
 | Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
 | Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake Uno.png"><img src="images/webp/Cake Uno.webp" alt="Cake Uno" /></a>                      |
