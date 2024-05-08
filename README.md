@@ -32,7 +32,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-04-07**                                                                                                    |
-| Updated     | **2024-04-15**                                                                                                    |
+| Updated     | **2024-05-08**                                                                                                    |
 | Description | My latest attempt.. everything at a glance. **Second version**!                                                   |
 | Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake View v2.png"><img src="images/webp/Cake View v2.webp" alt="Cake View v2" /></a>          |
