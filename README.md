@@ -90,7 +90,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | Updated     | **2024-05-08**                                                                                                    |
 | Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake Binary.png"><img src="images/webp/Cake Binary.webp" alt="Cake Binary" /></a>             |
-| Description | For the geeks/nerds: binary digit system.                                                                         |
+| Description | For the geeks/nerds: binary digit system (base/radix = 2);                                                        |
 
 ##### Details
 - [x] BITS on the left for the hour value (five)
