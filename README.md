@@ -50,7 +50,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-11-20**                                                                                                    |
-| Updated     | **2024-04-17**                                                                                                    |
+| Updated     | **2024-05-08**                                                                                                    |
 | Description | For the geeks/nerds: binary digit system.                                                                         |
 | Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                               |
 | Preview     | <a href="images/png/Cake Binary.png"><img src="images/webp/Cake Binary.webp" alt="Cake Binary" /></a>             |
