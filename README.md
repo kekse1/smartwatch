@@ -3,12 +3,9 @@
 # My **Smartwatch**
 My mother has bought me a smartwatch to my birthday (2023); so I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 
-## News
-* \[**2024-04-15**\] Updated [`Cake View`](#cake-view-v2) to **v2**!! And replaced all pictures (here and on [my web site](https://kekse.biz/?~smartwatch));
-* \[**2024-04-07**\] Now I've designed **seven** watch faces in total!
-
 ## Watch Faces
-Since I wanted a special watch face design, I decided to create my own one(s).
+Because I wanted a special watch face design (I really love 24h analog),
+I decided to create my own one(s).
 
 So I came up to [**facer.io**](https://facer.io/). There you can design as many as you want
 absolutely for free (even if not everything is for free there).
