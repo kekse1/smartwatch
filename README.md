@@ -15,7 +15,7 @@ and on my [Facer **kekse** profile](https://www.facer.io/u/kekse).
 
 ### My ["**Biscuit**" Collection](https://www.facer.io/collection/cake-collection-8e8db4066b)
 <a href="https://www.facer.io/collection/cake-collection-8e8db4066b" target="_blank">
-    <img src="images/biscuits.jpg" alt="Biscuits" style="margin-left: 128px;" /></a>
+    <img src="images/biscuits.jpg" alt="Biscuits" style="display: inline-block; padding-left: 128px;" /></a>
 
 I made them 'from scratch', as usual. Some are better, some are merely tryouts..
 here they are, with the original, animated `.webp` images (plus some transparency).
