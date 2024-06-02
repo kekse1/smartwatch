@@ -16,8 +16,8 @@ and on my [Facer **kekse** profile](https://www.facer.io/u/kekse).
 ### My ["**Biscuits**" Collection](https://www.facer.io/collection/cake-collection-8e8db4066b)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facer.io/collection/cake-collection-8e8db4066b" target="_blank">
-    <img src="images/biscuits.jpg" alt="Biscuits" /></a>
+<a href="https://www.facer.io/collection/cake-collection-8e8db4066b">
+    <img src="images/biscuits.jpg" alt="Biscuits [Collection]" /></a>
 
 I made them all 'from scratch', as usual. Some are better, some are merely tryouts..
 and here they are, with the original, animated `.webp` images (plus some transparency).
