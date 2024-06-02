@@ -19,8 +19,10 @@ and on my [Facer **kekse** profile](https://www.facer.io/u/kekse).
 <a href="https://www.facer.io/collection/cake-collection-8e8db4066b" target="_blank">
     <img src="images/biscuits.jpg" alt="Biscuits" /></a>
 
-I made them 'from scratch', as usual. Some are better, some are merely tryouts..
-here they are, with the original, animated `.webp` images (plus some transparency).
+I made them all 'from scratch', as usual. Some are better, some are merely tryouts..
+and here they are, with the original, animated `.webp` images (plus some transparency).
+
+The **Inspector** is available for any of these.. there you'll see their 'source codes'! **;)~**
 
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
