@@ -22,8 +22,8 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 * [**`Cake Uno`**](#cake-uno)
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake Second Try`**](#cake-second-try)
-* [**`Cake First Try`**](#cake-first-try)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
+* [**`Cake First Try`**](#cake-first-try)
 
 #### **`Cake View v2`**
 | Key         | Value                                                                                                             |
@@ -31,6 +31,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | Created     | **2024-04-07**                                                                                                    |
 | Updated     | **2024-05-08**                                                                                                    |
 | Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                               |
+| Inspector   | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO/inspect)                                                 |
 | Preview     | <a href="images/png/Cake View v2.png"><img src="images/webp/Cake View v2.webp" alt="Cake View v2" /></a>          |
 | Description | My latest attempt.. everything at a glance. **Second version**!                                                   |
 
@@ -52,6 +53,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | Created     | **2023-12-28**                                                                                                    |
 | Updated     | **2024-04-17**                                                                                                    |
 | Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                               |
+| Inspector   | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv/inspect)                                                 |
 | Preview     | <a href="images/png/Cake Rotate v2.png"><img src="images/webp/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>    |
 | Description | Better version of the original 'Cake Rotate v1'                                                                   |
 
@@ -69,6 +71,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | Created     | **11/2023**                                                                                                       |
 | Updated     | **2024-05-08**                                                                                                    |
 | Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
+| Inspector   | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d/inspect)                                                 |
 | Preview     | <a href="images/png/Cake Uno.png"><img src="images/webp/Cake Uno.webp" alt="Cake Uno" /></a>                      |
 | Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
 
@@ -86,6 +89,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | Created     | **2023-11-20**                                                                                                    |
 | Updated     | **2024-05-08**                                                                                                    |
 | Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                               |
+| Inspector   | [`epWBfMhr92`](https://www.facer.io/watchface/epwBfMhr92/inspect)                                                 |
 | Preview     | <a href="images/png/Cake Binary.png"><img src="images/webp/Cake Binary.webp" alt="Cake Binary" /></a>             |
 | Description | For the geeks/nerds: binary digit system (base/radix = 2);                                                        |
 
@@ -106,6 +110,7 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 | Created     | **10/2023**                                                                                                       |
 | Updated     | **2024-05-08**                                                                                                    |
 | Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                               |
+| Inspector   | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI/inspect)                                                 |
 | Preview     | <a href="images/png/Cake Second Try.png"><img src="images/webp/Cake Second Try.webp" alt="Cake Second Try" /></a> |
 | Description | This is what I'm currently using on my own smartwatch.                                                            |
 
@@ -119,30 +124,13 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 - [x] Heart beat rate (with sine animated heart icon)
 - [x] GPS Coordinates (Latitude, Longitude, Altitude)
 
-#### **`Cake First Try`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **10/2023**                                                                                                       |
-| Updated     | **2024-04-17**                                                                                                    |
-| Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                               |
-| Preview     | <a href="images/png/Cake First Try.png"><img src="images/webp/Cake First Try.webp" alt="Cake First Try" /></a>    |
-| Description | My first try in making a watch face. Really not perfect..                                                         |
-
-##### Details
-- [x] Analog (**24h**) clock
-- [x] Extra analog weekday and month
-- [x] Additional analog "clock" for watch and phone battery levels
-- [x] Heart beat rate (with sine animated icon)
-- [x] Weather and Moon phase icons on the top
-- [x] Digital time and the date (partially Strings)
-- [x] A compass (red progress around the clock)
-
 #### **`Cake Rotate v1`**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-12-26**                                                                                                    |
 | Updated     | **2024-04-17**                                                                                                    |
 | Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                               |
+| Inspector   | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm/inspect)                                                 |
 | Preview     | <a href="images/png/Cake Rotate v1.png"><img src="images/webp/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>    |
 | Description | Something new after Christmas, before the new year arrives..                                                      |
 
@@ -154,6 +142,25 @@ here they are, with the original, animated `.webp` images (plus some transparenc
 - [x] The digital Date with weekday on the bottom
 - [x] *Percentage* of progress of [ Day, Week, Month, Year ]
 - [x] Also nice design for "squared" watches, in my opinion
+
+#### **`Cake First Try`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **10/2023**                                                                                                       |
+| Updated     | **2024-04-17**                                                                                                    |
+| Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                               |
+| Inspector   | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH/inspect)                                                 |
+| Preview     | <a href="images/png/Cake First Try.png"><img src="images/webp/Cake First Try.webp" alt="Cake First Try" /></a>    |
+| Description | My first try in making a watch face. Really not perfect..                                                         |
+
+##### Details
+- [x] Analog (**24h**) clock
+- [x] Extra analog weekday and month
+- [x] Additional analog "clock" for watch and phone battery levels
+- [x] Heart beat rate (with sine animated icon)
+- [x] Weather and Moon phase icons on the top
+- [x] Digital time and the date (partially Strings)
+- [x] A compass (red progress around the clock)
 
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
