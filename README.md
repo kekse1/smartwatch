@@ -14,6 +14,7 @@ I'm also presenting them on my [private website](https://kekse.biz/?~smartwatch)
 and on my [Facer **kekse** profile](https://www.facer.io/u/kekse).
 
 ### My ["**Cake Design**" Collection](https://www.facer.io/collection/cake-collection-8e8db4066b)
+![Cake Design](images/biscuits.jpg)
 I made them 'from scratch', as usual. Some are better, some are merely tryouts..
 here they are, with the original, animated `.webp` images (plus some transparency).
 
