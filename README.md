@@ -25,13 +25,32 @@ The **Inspector** is available for any of these.. there you'll my 'source codes'
 interesting for you, because there is sometimes 'many' maths hidden in there; inter alia
 all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
+* [**`Cake Uno`**](#cake-uno)
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
-* [**`Cake Uno`**](#cake-uno)
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake First Try`**](#cake-first-try)
+
+#### **`Cake Uno`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **11/2023**                                                                                                       |
+| Updated     | **2024-06-03**                                                                                                    |
+| Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
+| Inspector   | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d/inspect)                                                 |
+| Preview     | <a href="images/Cake Uno.png"><img src="images/Cake Uno.webp" alt="Cake Uno" /></a>                               |
+| Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
+
+##### Details
+- [x] With a design smth. similar to "one hand" watches.. (but..)
+- [x] The digital time rotates with the analog (24h!) clock (sine and cosine positioned)
+- [x] The weekday on the innerst sine/cosine circle rotates with the progress of the week
+- [x] The day in month and the month name rotate by the progress of the month
+- [x] The (sine animated) heart icon with average beat rate rotates with the year's progress
+- [x] The outer progress is the compass
+- [x] The progress directly under the compass is the watch battery level
 
 #### **`Cake View v2`**
 | Key         | Value                                                                                                             |
@@ -73,25 +92,6 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] Heart beat and step count (sine animated icon)
 - [x] The digital Date with weekday on the top/right
 - [x] *Percentage* of progress of [ Minute, Hour, Day, Week, Month, Year ], this time round alignment(!)
-
-#### **`Cake Uno`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **11/2023**                                                                                                       |
-| Updated     | **2024-06-03**                                                                                                    |
-| Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
-| Inspector   | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d/inspect)                                                 |
-| Preview     | <a href="images/Cake Uno.png"><img src="images/Cake Uno.webp" alt="Cake Uno" /></a>                               |
-| Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
-
-##### Details
-- [x] With a design smth. similar to "one hand" watches.. (but..)
-- [x] The digital time rotates with the analog (24h!) clock (sine and cosine positioned)
-- [x] The weekday on the innerst sine/cosine circle rotates with the progress of the week
-- [x] The day in month and the month name rotate by the progress of the month
-- [x] The (sine animated) heart icon with average beat rate rotates with the year's progress
-- [x] The outer progress is the compass
-- [x] The progress directly under the compass is the watch battery level
 
 #### **`Cake Binary`**
 | Key         | Value                                                                                                             |
