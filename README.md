@@ -78,7 +78,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **11/2023**                                                                                                       |
-| Updated     | **2024-05-08**                                                                                                    |
+| Updated     | **2024-06-03**                                                                                                    |
 | Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
 | Inspector   | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d/inspect)                                                 |
 | Preview     | <a href="images/Cake Uno.png"><img src="images/Cake Uno.webp" alt="Cake Uno" /></a>                               |
@@ -86,11 +86,13 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 ##### Details
 - [x] With a design smth. similar to "one hand" watches.. (but..)
-- [x] The digital time rotates with the analog (**24h**) clock (sine and cosine positioned)
-- [x] The inner digital values rotate with their own progress(es) in time
-- [x] My favicon in the middle rotates with compass
-- [x] And it's opacity is shrinking to the watch battery
-- [x] A compass around the clock (blue progress)
+- [x] The digital time rotates with the analog (24h!) clock (sine and cosine positioned)
+- [x] The weekday on the innerst sine/cosine circle rotates with the progress of the week
+- [x] The day in month and the month name rotate by the progress of the month
+- [x] The (sine animated) heart icon with average beat rate rotates with the year's progress
+- [x] The outer progress is the compass
+- [x] The progress directly under the compass is the watch battery level
+- [x] My favicon rotates with the compass and becomes more transparent with shrinking battery level
 
 #### **`Cake Binary`**
 | Key         | Value                                                                                                             |
