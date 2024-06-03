@@ -92,7 +92,6 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] The (sine animated) heart icon with average beat rate rotates with the year's progress
 - [x] The outer progress is the compass
 - [x] The progress directly under the compass is the watch battery level
-- [x] My favicon rotates with the compass and becomes more transparent with shrinking battery level
 
 #### **`Cake Binary`**
 | Key         | Value                                                                                                             |
