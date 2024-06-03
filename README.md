@@ -1,6 +1,5 @@
 <img src="https://kekse.biz/github.php?draw&override=github:smartwatch" />
 
-# My **Smartwatch**
 My mother has bought me a smartwatch to my birthday (2023); so I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 
 ## My ["**Biscuits**" Collection](https://www.facer.io/collection/cake-collection-8e8db4066b)
