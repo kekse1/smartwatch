@@ -11,8 +11,7 @@ So I came up to [**facer.io**](https://facer.io/). There you can design as many 
 absolutely for free (even if not everything is for free there).
 
 I'm also presenting them on my [private website](https://kekse.biz/?~smartwatch),
-and on my [Facer **kekse** profile](https://www.facer.io/u/kekse).
-
+and on my [Facer **kekse** profile](https://www.facer.io/u/kekse). .. AND here:
 ### [**`biscuits.casa`**](https://biscuits.casa/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
