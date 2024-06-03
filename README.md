@@ -112,7 +112,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] Analog clock in the middle (24h!)
 - [x] Weekday string in the middle
 - [x] Also in the middle: digital month in year and day in month
-- [x] My favicon's transparency encodes the watch battery level
+- [x] My favicon's transparency and rotation encodes the watch battery level
 - [x] Watch Battery level also in the outer progress beneath the compass
 - [x] A compass around the clock (blue progress)
 
