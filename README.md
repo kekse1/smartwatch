@@ -38,7 +38,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-04-07**                                                                                                    |
-| Updated     | **2024-05-08**                                                                                                    |
+| Updated     | **2024-06-03**                                                                                                    |
 | Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                               |
 | Inspector   | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO/inspect)                                                 |
 | Preview     | <a href="images/png/Cake View v2.png"><img src="images/webp/Cake View v2.webp" alt="Cake View v2" /></a>          |
@@ -54,7 +54,8 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] Compass around the clock (orange progress), and the watch battery level (yellow progress around)
 - [x] Compass angle string and direction name
 - [x] Weekday (left) also shows progress from monday to sunday(!)
-- [x] "Everything" as a progress (so you see how far time has become... ;-)
+- [x] Heart Beat (w/ sine animated icon)
+- [x] "Everything" as a progress (see how far time has come... ;-)
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                             |
@@ -96,22 +97,24 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-11-20**                                                                                                    |
-| Updated     | **2024-05-08**                                                                                                    |
+| Updated     | **2024-06-03**                                                                                                    |
 | Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                               |
 | Inspector   | [`epWBfMhr92`](https://www.facer.io/watchface/epwBfMhr92/inspect)                                                 |
 | Preview     | <a href="images/png/Cake Binary.png"><img src="images/webp/Cake Binary.webp" alt="Cake Binary" /></a>             |
 | Description | For the geeks/nerds: binary digit system (base/radix = 2);                                                        |
 
 ##### Details
-- [x] BITS on the left for the hour value (five)
-- [x] BITS on the top/right for minute value (six)
-- [x] BITS on the bottom for second value (six)
-- [x] All bits are sized by their weights
-- [x] Analog clock in the middle (**24h**)
+- [x] Five BITS on the left for the hour value
+- [x] Six BITS on the top/right for minute value
+- [x] Six BITS on the bottom for second value
+- [x] Eight BITS for your heart Beat (w/ sine animated icon)
+- [x] Most bits are sized by their weights
+- [x] Analog clock in the middle (24h!)
 - [x] Weekday string in the middle
 - [x] Also in the middle: digital month in year and day in month
+- [x] My favicon's transparency encodes the watch battery level
+- [x] Watch Battery level also in the outer progress beneath the compass
 - [x] A compass around the clock (blue progress)
-- [x] Watch battery level in the favicon's rotation value
 
 #### **`Cake Second Try`**
 | Key         | Value                                                                                                             |
