@@ -41,7 +41,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Updated     | **2024-06-03**                                                                                                    |
 | Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                               |
 | Inspector   | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO/inspect)                                                 |
-| Preview     | <a href="images/png/Cake View v2.png"><img src="images/webp/Cake View v2.webp" alt="Cake View v2" /></a>          |
+| Preview     | <a href="images/Cake View v2.png"><img src="images/Cake View v2.webp" alt="Cake View v2" /></a>                   |
 | Description | My latest attempt.. everything at a glance. **Second version**!                                                   |
 
 ##### Details
@@ -64,7 +64,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Updated     | **2024-04-17**                                                                                                    |
 | Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                               |
 | Inspector   | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv/inspect)                                                 |
-| Preview     | <a href="images/png/Cake Rotate v2.png"><img src="images/webp/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>    |
+| Preview     | <a href="images/Cake Rotate v2.png"><img src="images/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>             |
 | Description | Better version of the original 'Cake Rotate v1'                                                                   |
 
 ##### Details
@@ -82,7 +82,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Updated     | **2024-05-08**                                                                                                    |
 | Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
 | Inspector   | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d/inspect)                                                 |
-| Preview     | <a href="images/png/Cake Uno.png"><img src="images/webp/Cake Uno.webp" alt="Cake Uno" /></a>                      |
+| Preview     | <a href="images/Cake Uno.png"><img src="images/Cake Uno.webp" alt="Cake Uno" /></a>                               |
 | Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
 
 ##### Details
@@ -100,7 +100,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Updated     | **2024-06-03**                                                                                                    |
 | Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                               |
 | Inspector   | [`epWBfMhr92`](https://www.facer.io/watchface/epwBfMhr92/inspect)                                                 |
-| Preview     | <a href="images/png/Cake Binary.png"><img src="images/webp/Cake Binary.webp" alt="Cake Binary" /></a>             |
+| Preview     | <a href="images/Cake Binary.png"><img src="images/Cake Binary.webp" alt="Cake Binary" /></a>                      |
 | Description | For the geeks/nerds: binary digit system (base/radix = 2);                                                        |
 
 ##### Details
@@ -123,7 +123,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Updated     | **2024-05-08**                                                                                                    |
 | Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                               |
 | Inspector   | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI/inspect)                                                 |
-| Preview     | <a href="images/png/Cake Second Try.png"><img src="images/webp/Cake Second Try.webp" alt="Cake Second Try" /></a> |
+| Preview     | <a href="images/Cake Second Try.png"><img src="images/Cake Second Try.webp" alt="Cake Second Try" /></a>          |
 | Description | This is what I'm currently using on my own smartwatch.                                                            |
 
 ##### Details
@@ -143,7 +143,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Updated     | **2024-04-17**                                                                                                    |
 | Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                               |
 | Inspector   | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm/inspect)                                                 |
-| Preview     | <a href="images/png/Cake Rotate v1.png"><img src="images/webp/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>    |
+| Preview     | <a href="images/Cake Rotate v1.png"><img src="images/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>             |
 | Description | Something new after Christmas, before the new year arrives..                                                      |
 
 ##### Details
@@ -162,7 +162,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Updated     | **2024-04-17**                                                                                                    |
 | Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                               |
 | Inspector   | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH/inspect)                                                 |
-| Preview     | <a href="images/png/Cake First Try.png"><img src="images/webp/Cake First Try.webp" alt="Cake First Try" /></a>    |
+| Preview     | <a href="images/Cake First Try.png"><img src="images/Cake First Try.webp" alt="Cake First Try" /></a>             |
 | Description | My first try in making a watch face. Really not perfect..                                                         |
 
 ##### Details
