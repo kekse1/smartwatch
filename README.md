@@ -25,35 +25,13 @@ The **Inspector** is available for any of these.. there you'll my 'source codes'
 interesting for you, because there is sometimes 'many' maths hidden in there; inter alia
 all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
-* [**`Cake Uno`**](#cake-uno)
 * [**`Cake View v2`**](#cake-view-v2)
+* [**`Cake Uno`**](#cake-uno)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake First Try`**](#cake-first-try)
-
-#### **`Cake Uno`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **11/2023**                                                                                                       |
-| Updated     | **2024-06-06**                                                                                                    |
-| Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
-| Inspector   | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d/inspect)                                                 |
-| Preview     | <a href="images/Cake Uno.png"><img src="images/Cake Uno.webp" alt="Cake Uno" /></a>                               |
-| Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
-
-##### Details
-Similar to the watches with only one hand, but a bit optimized..
-
-- [x] With a design smth. similar to "one hand" watches.. (but..)
-- [x] The digital time rotates around in the position of the analog clock (it's hour, in 24h design)
-- [x] The digital date rotates around the position of the month's progress
-- [x] This date shows both the name and the number of the month
-- [x] The digital weekday rotates around the position of the weekday progress of the week
-- [x] The arrow on the outside indicates the current year's progress
-- [x] In the center there's a rotating compass
-- [x] On the (real) outside there's a violet progress showing your watch battery state
 
 #### **`Cake View v2`**
 | Key         | Value                                                                                                             |
@@ -77,6 +55,28 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] Weekday (left) also shows progress from monday to sunday(!)
 - [x] Heart Beat (w/ sine animated icon)
 - [x] "Everything" as a progress (see how far time has come... ;-)
+
+#### **`Cake Uno`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **11/2023**                                                                                                       |
+| Updated     | **2024-06-06**                                                                                                    |
+| Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
+| Inspector   | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d/inspect)                                                 |
+| Preview     | <a href="images/Cake Uno.png"><img src="images/Cake Uno.webp" alt="Cake Uno" /></a>                               |
+| Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
+
+##### Details
+Similar to the watches with only one hand, but a bit optimized..
+
+- [x] With a design smth. similar to "one hand" watches.. (but..)
+- [x] The digital time rotates around in the position of the analog clock (it's hour, in 24h design)
+- [x] The digital date rotates around the position of the month's progress
+- [x] This date shows both the name and the number of the month
+- [x] The digital weekday rotates around the position of the weekday progress of the week
+- [x] The arrow on the outside indicates the current year's progress
+- [x] In the center there's a rotating compass
+- [x] On the (real) outside there's a violet progress showing your watch battery state
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                             |
