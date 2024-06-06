@@ -37,20 +37,23 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **11/2023**                                                                                                       |
-| Updated     | **2024-06-03**                                                                                                    |
+| Updated     | **2024-06-06**                                                                                                    |
 | Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
 | Inspector   | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d/inspect)                                                 |
 | Preview     | <a href="images/Cake Uno.png"><img src="images/Cake Uno.webp" alt="Cake Uno" /></a>                               |
 | Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
 
 ##### Details
+Similar to the watches with only one hand, but a bit optimized..
+
 - [x] With a design smth. similar to "one hand" watches.. (but..)
-- [x] The digital time rotates with the analog (24h!) clock (sine and cosine positioned)
-- [x] The weekday on the innerst sine/cosine circle rotates with the progress of the week
-- [x] The day in month and the month name rotate by the progress of the month
-- [x] The (sine animated) heart icon with average beat rate rotates with the year's progress
-- [x] The outer progress is the compass
-- [x] The progress directly under the compass is the watch battery level
+- [x] The digital time rotates around in the position of the analog clock (it's hour, in 24h design)
+- [x] The digital date rotates around the position of the month's progress
+- [x] This date shows both the name and the number of the month
+- [x] The digital weekday rotates around the position of the weekday progress of the week
+- [x] The arrow on the outside indicates the current year's progress
+- [x] In the center there's a rotating compass
+- [x] On the (real) outside there's a violet progress showing your watch battery state
 
 #### **`Cake View v2`**
 | Key         | Value                                                                                                             |
