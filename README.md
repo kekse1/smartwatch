@@ -27,7 +27,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Uno v2`**](#cake-uno-v2)
-* [**`Cake Uno v2.Compass`**](#cake-uno-v2.compass)
+* [**`Cake Uno v2.Compass`**](#cake-uno-v2compass)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake Second Try`**](#cake-second-try)
