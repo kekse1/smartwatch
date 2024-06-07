@@ -26,8 +26,9 @@ interesting for you, because there is sometimes 'many' maths hidden in there; in
 all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 * [**`Cake View v2`**](#cake-view-v2)
+* [**`Cake Uno v3`**](#cake-uno-v3)
+* [**`Cake Uno v3.Compass`**](#cake-uno-v3compass)
 * [**`Cake Uno v2`**](#cake-uno-v2)
-* [**`Cake Uno v2.Compass`**](#cake-uno-v2compass)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake Second Try`**](#cake-second-try)
@@ -57,6 +58,47 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] Heart Beat (w/ sine animated icon)
 - [x] "Everything" as a progress (see how far time has come... ;-)
 
+#### **`Cake Uno v3`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2024-06-07**                                                                                                    |
+| Updated     | **2024-06-07**                                                                                                    |
+| Website     | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w?watchModel=fossilqmarshal)                               |
+| Inspector   | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w/inspect)                                                 |
+| Preview     | <a href="images/Cake Uno v3.png"><img src="images/Cake Uno v3.webp" alt="Cake Uno v3" /></a>                      |
+| Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
+
+##### Details
+Similar to the watches with only one hand, but a bit optimized..
+
+- [x] With a design smth. similar to "one hand" watches.. (but..)
+- [x] The digital time rotates around in the position of the analog clock (it's hour, in 24h design)
+- [x] Additionally to the time there is also the date (also rotating around with the time)
+- [x] The big red arrow on the outside points more precise to the current time (24h)
+- [x] One progress around the clock is the compass
+- [x] The other progress around is the watch battery level
+
+#### **`Cake Uno v3.Compass`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **11/2023**                                                                                                       |
+| Updated     | **2024-06-06**                                                                                                    |
+| Website     | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5?watchModel=fossilqmarshal)                               |
+| Inspector   | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5/inspect)                                                 |
+| Preview     | <a href="images/Cake Uno v3.Compass.png"><img src="images/Cake Uno v3.Compass.webp" alt="Cake Uno v3.Compass" /></a>|
+| Description | Similar to the watches with only one hand, but a bit optimized.. this is the `<b>Compass</b>` variant!            |
+
+##### Details
+Similar to the watches with only one hand, but a bit optimized.. this is the **`Compass`** variant!
+
+- [x] With a design smth. similar to "one hand" watches.. (but..)
+- [x] The digital time rotates around in the position of the analog clock (it's hour, in 24h design)
+- [x] Additionally to the time there is also the date (also rotating around with the time)
+- [x] The big red arrow on the outside points more precise to the current time (24h)
+- [x] One progress around the clock is the compass
+- [x] The other progress around is the watch battery level
+- [x] And in the middle a rotating compass
+
 #### **`Cake Uno v2`**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
@@ -65,7 +107,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Website     | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d?watchModel=fossilqmarshal)                               |
 | Inspector   | [`zIFEz0CL3d`](https://www.facer.io/watchface/zIFEz0CL3d/inspect)                                                 |
 | Preview     | <a href="images/Cake Uno v2.png"><img src="images/Cake Uno v2.webp" alt="Cake Uno v2" /></a>                      |
-| Description | Similar to the watches with only one hand, but a bit optimized..                                                  |
+| Description | Second Version of my first Version of a `Uno` clock                                                               |
 
 ##### Details
 Similar to the watches with only one hand, but a bit optimized..
@@ -79,30 +121,6 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] In the center you'll see your heart beat (average?)
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
-
-#### **`Cake Uno v2.Compass`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **11/2023**                                                                                                       |
-| Updated     | **2024-06-06**                                                                                                    |
-| Website     | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5?watchModel=fossilqmarshal)                               |
-| Inspector   | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5/inspect)                                                 |
-| Preview     | <a href="images/Cake Uno v2.Compass.png"><img src="images/Cake Uno v2.Compass.webp" alt="Cake Uno v2.Compass" /></a>|
-| Description | Similar to the watches with only one hand, but a bit optimized.. this is the `<b>Compass</b>` variant!            |
-
-##### Details
-Similar to the watches with only one hand, but a bit optimized..
-
-- [x] With a design smth. similar to "one hand" watches.. (but..)
-- [x] The digital time rotates around in the position of the analog clock (it's hour, in 24h design)
-- [x] The digital date rotates around the position of the month's progress
-- [x] This date shows both the name and the number of the month
-- [x] The digital weekday rotates around the position of the weekday progress of the week
-- [x] The big green arrow on the outside indicates the current year's progress
-- [x] In the center you'll see your heart beat (average?)
-- [x] One progress around the clock is the compass
-- [x] The other progress around is the watch battery level
-- [x] And in the middle there's a rotating compass
 
 #### **`Cake Rotate v2`**
 | Key         | Value                                                                                                             |
