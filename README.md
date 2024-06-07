@@ -81,8 +81,8 @@ Similar to the watches with only one hand, but a bit optimized..
 #### **`Cake Uno v3.Compass`**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **11/2023**                                                                                                       |
-| Updated     | **2024-06-06**                                                                                                    |
+| Created     | **2024-06-07**                                                                                                    |
+| Updated     | **2024-06-07**                                                                                                    |
 | Website     | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5?watchModel=fossilqmarshal)                               |
 | Inspector   | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5/inspect)                                                 |
 | Preview     | <a href="images/Cake Uno v3.Compass.png"><img src="images/Cake Uno v3.Compass.webp" alt="Cake Uno v3.Compass" /></a>|
