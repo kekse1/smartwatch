@@ -28,8 +28,8 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Uno v3`**](#cake-uno-v3)
 * [**`Cake Uno v3.Compass`**](#cake-uno-v3compass)
-* [**`Cake Uno v2`**](#cake-uno-v2)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
+* [**`Cake Uno v2`**](#cake-uno-v2)
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
@@ -99,6 +99,24 @@ Similar to the watches with only one hand, but a bit optimized.. this is the **`
 - [x] The other progress around is the watch battery level
 - [x] And in the middle a rotating compass
 
+#### **`Cake Rotate v2`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2023-12-28**                                                                                                    |
+| Updated     | **2024-04-17**                                                                                                    |
+| Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                               |
+| Inspector   | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv/inspect)                                                 |
+| Preview     | <a href="images/Cake Rotate v2.png"><img src="images/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>             |
+| Description | Better version of the original 'Cake Rotate v1'                                                                   |
+
+##### Details
+- [x] Big *rotating* analog clock
+- [x] Phone and Watch Battery Levels near the middle (sine and cosine positioning)
+- [x] My favicon in the center rotates with your compass, in the middle
+- [x] Heart beat and step count (sine animated icon)
+- [x] The digital Date with weekday on the top/right
+- [x] *Percentage* of progress of [ Minute, Hour, Day, Week, Month, Year ], this time round alignment(!)
+
 #### **`Cake Uno v2`**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
@@ -121,24 +139,6 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] In the center you'll see your heart beat (average?)
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
-
-#### **`Cake Rotate v2`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **2023-12-28**                                                                                                    |
-| Updated     | **2024-04-17**                                                                                                    |
-| Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                               |
-| Inspector   | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv/inspect)                                                 |
-| Preview     | <a href="images/Cake Rotate v2.png"><img src="images/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>             |
-| Description | Better version of the original 'Cake Rotate v1'                                                                   |
-
-##### Details
-- [x] Big *rotating* analog clock
-- [x] Phone and Watch Battery Levels near the middle (sine and cosine positioning)
-- [x] My favicon in the center rotates with your compass, in the middle
-- [x] Heart beat and step count (sine animated icon)
-- [x] The digital Date with weekday on the top/right
-- [x] *Percentage* of progress of [ Minute, Hour, Day, Week, Month, Year ], this time round alignment(!)
 
 #### **`Cake Binary`**
 | Key         | Value                                                                                                             |
