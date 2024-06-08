@@ -171,7 +171,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                               |
 | Inspector   | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI/inspect)                                                 |
 | Preview     | <a href="images/Cake Second Try.png"><img src="images/Cake Second Try.webp" alt="Cake Second Try" /></a>          |
-| Description | This is what I'm currently using on my own smartwatch.                                                            |
+| Description | My second try in designing own watch faces ..                                                                     |
 
 ##### Details
 - [x] Digital time and date
