@@ -27,7 +27,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Uno v3`**](#cake-uno-v3)
-* [**`Cake Uno v3.Compass`**](#cake-uno-v3compass)
+* [**`Cake Uno v3-Compass`**](#cake-uno-v3compass)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Uno v2`**](#cake-uno-v2)
 * [**`Cake Binary`**](#cake-binary)
@@ -78,14 +78,14 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
 
-#### **`Cake Uno v3.Compass`**
+#### **`Cake Uno v3-Compass`**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-06-07**                                                                                                    |
 | Updated     | **2024-06-07**                                                                                                    |
 | Website     | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5?watchModel=fossilqmarshal)                               |
 | Inspector   | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5/inspect)                                                 |
-| Preview     | <a href="images/Cake Uno v3.Compass.png"><img src="images/Cake Uno v3.Compass.webp" alt="Cake Uno v3.Compass" /></a>|
+| Preview     | <a href="images/Cake Uno v3-Compass.png"><img src="images/Cake Uno v3-Compass.webp" alt="Cake Uno v3-Compass" /></a>|
 | Description | Similar to the watches with only one hand, but a bit optimized.. this is the `<b>Compass</b>` variant!            |
 
 ##### Details
