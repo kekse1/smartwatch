@@ -25,6 +25,7 @@ The **Inspector** is available for any of these.. there you'll my 'source codes'
 interesting for you, because there is sometimes 'many' maths hidden in there; inter alia
 all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
+* [**`Cake Circle`**](#cake-circle)
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Uno v3`**](#cake-uno-v3)
 * [**`Cake Uno v3-Compass`**](#cake-uno-v3compass)
@@ -34,6 +35,23 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 * [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake First Try`**](#cake-first-try)
+
+#### **`Cake Circle`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2024-06-08**                                                                                                    |
+| Updated     | **2024-06-08**                                                                                                    |
+| Website     | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO?watchModel=fossilqmarshal)                               |
+| Inspector   | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO/inspect)                                                 |
+| Preview     | <a href="images/Cake Circle.png"><img src="images/Cake Circle.webp" alt="Cake Circle" /></a>                      |
+| Description | In fact I wanted to dynamically change the circle's RADIUS values, but that wasn't possible at Facer. So their lengths are dynamic.|
+
+##### Details
+- [x] Digital time and date, rotating around with the analog time (24h)
+- [x] The circles indicate the progresses of: Minute, Hour, Day, Week, Month and Year
+- [x] In the middle a heart icon and the average beat rate (sine/cosine)
+- [x] The both *thin* circles/progresses on the outside are battery and compass
+- [x] The big, rotating arrow points to the analog time (24h) more precise
 
 #### **`Cake View v2`**
 | Key         | Value                                                                                                             |
