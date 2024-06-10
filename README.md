@@ -25,33 +25,16 @@ The **Inspector** is available for any of these.. there you'll my 'source codes'
 interesting for you, because there is sometimes 'many' maths hidden in there; inter alia
 all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
-* [**`Cake Circle`**](#cake-circle)
 * [**`Cake View v2`**](#cake-view-v2)
+* [**`Cake Rotate v2`**](#cake-rotate-v2)
+* [**`Cake Circle`**](#cake-circle)
 * [**`Cake Uno v3`**](#cake-uno-v3)
 * [**`Cake Uno v3-Compass`**](#cake-uno-v3compass)
-* [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Uno v2`**](#cake-uno-v2)
+* [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake Second Try`**](#cake-second-try)
-* [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake First Try`**](#cake-first-try)
-
-#### **`Cake Circle`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **2024-06-08**                                                                                                    |
-| Updated     | **2024-06-08**                                                                                                    |
-| Website     | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO?watchModel=fossilqmarshal)                               |
-| Inspector   | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO/inspect)                                                 |
-| Preview     | <a href="images/Cake Circle.png"><img src="images/Cake Circle.webp" alt="Cake Circle" /></a>                      |
-| Description | In fact I wanted to dynamically change the circle's RADIUS values, but that wasn't possible at Facer. So their lengths are dynamic.|
-
-##### Details
-- [x] Digital time and date, rotating around with the analog time (24h)
-- [x] The circles indicate the progresses of: Minute, Hour, Day, Week, Month and Year
-- [x] In the middle a heart icon and the average beat rate (sine/cosine)
-- [x] The both *thin* circles/progresses on the outside are battery and compass
-- [x] The big, rotating arrow points to the analog time (24h) more precise
 
 #### **`Cake View v2`**
 | Key         | Value                                                                                                             |
@@ -75,6 +58,41 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] Weekday (left) also shows progress from monday to sunday(!)
 - [x] Heart Beat (w/ sine animated icon)
 - [x] "Everything" as a progress (see how far time has come... ;-)
+
+#### **`Cake Rotate v2`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2023-12-28**                                                                                                    |
+| Updated     | **2024-04-17**                                                                                                    |
+| Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                               |
+| Inspector   | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv/inspect)                                                 |
+| Preview     | <a href="images/Cake Rotate v2.png"><img src="images/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>             |
+| Description | Better version of the original 'Cake Rotate v1'                                                                   |
+
+##### Details
+- [x] Big *rotating* analog clock
+- [x] Phone and Watch Battery Levels near the middle (sine and cosine positioning)
+- [x] My favicon in the center rotates with your compass, in the middle
+- [x] Heart beat and step count (sine animated icon)
+- [x] The digital Date with weekday on the top/right
+- [x] *Percentage* of progress of [ Minute, Hour, Day, Week, Month, Year ], this time round alignment(!)
+
+#### **`Cake Circle`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2024-06-08**                                                                                                    |
+| Updated     | **2024-06-08**                                                                                                    |
+| Website     | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO?watchModel=fossilqmarshal)                               |
+| Inspector   | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO/inspect)                                                 |
+| Preview     | <a href="images/Cake Circle.png"><img src="images/Cake Circle.webp" alt="Cake Circle" /></a>                      |
+| Description | In fact I wanted to dynamically change the circle's RADIUS values, but that wasn't possible at Facer. So their lengths are dynamic.|
+
+##### Details
+- [x] Digital time and date, rotating around with the analog time (24h)
+- [x] The circles indicate the progresses of: Minute, Hour, Day, Week, Month and Year
+- [x] In the middle a heart icon and the average beat rate (sine/cosine)
+- [x] The both *thin* circles/progresses on the outside are battery and compass
+- [x] The big, rotating arrow points to the analog time (24h) more precise
 
 #### **`Cake Uno v3`**
 | Key         | Value                                                                                                             |
@@ -117,24 +135,6 @@ Similar to the watches with only one hand, but a bit optimized.. this is the **`
 - [x] The other progress around is the watch battery level
 - [x] And in the middle a rotating compass
 
-#### **`Cake Rotate v2`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **2023-12-28**                                                                                                    |
-| Updated     | **2024-04-17**                                                                                                    |
-| Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                               |
-| Inspector   | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv/inspect)                                                 |
-| Preview     | <a href="images/Cake Rotate v2.png"><img src="images/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>             |
-| Description | Better version of the original 'Cake Rotate v1'                                                                   |
-
-##### Details
-- [x] Big *rotating* analog clock
-- [x] Phone and Watch Battery Levels near the middle (sine and cosine positioning)
-- [x] My favicon in the center rotates with your compass, in the middle
-- [x] Heart beat and step count (sine animated icon)
-- [x] The digital Date with weekday on the top/right
-- [x] *Percentage* of progress of [ Minute, Hour, Day, Week, Month, Year ], this time round alignment(!)
-
 #### **`Cake Uno v2`**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
@@ -157,6 +157,25 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] In the center you'll see your heart beat (average?)
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
+
+#### **`Cake Rotate v1`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2023-12-26**                                                                                                    |
+| Updated     | **2024-04-17**                                                                                                    |
+| Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                               |
+| Inspector   | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm/inspect)                                                 |
+| Preview     | <a href="images/Cake Rotate v1.png"><img src="images/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>             |
+| Description | Something new after Christmas, before the new year arrives..                                                      |
+
+##### Details
+- [x] Big **rotating** analog clock (**24h**)
+- [x] Phone and Watch Battery Levels near the middle (sine and cosine positioning)
+- [x] My favicon in the center rotates with your compass, in the middle
+- [x] Heart beat and step count (sine animated icon)
+- [x] The digital Date with weekday on the bottom
+- [x] *Percentage* of progress of [ Day, Week, Month, Year ]
+- [x] Also nice design for "squared" watches, in my opinion
 
 #### **`Cake Binary`**
 | Key         | Value                                                                                                             |
@@ -200,25 +219,6 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] Some (digital) weather information
 - [x] Heart beat rate (with sine animated heart icon)
 - [x] GPS Coordinates (Latitude, Longitude, Altitude)
-
-#### **`Cake Rotate v1`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **2023-12-26**                                                                                                    |
-| Updated     | **2024-04-17**                                                                                                    |
-| Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                               |
-| Inspector   | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm/inspect)                                                 |
-| Preview     | <a href="images/Cake Rotate v1.png"><img src="images/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>             |
-| Description | Something new after Christmas, before the new year arrives..                                                      |
-
-##### Details
-- [x] Big **rotating** analog clock (**24h**)
-- [x] Phone and Watch Battery Levels near the middle (sine and cosine positioning)
-- [x] My favicon in the center rotates with your compass, in the middle
-- [x] Heart beat and step count (sine animated icon)
-- [x] The digital Date with weekday on the bottom
-- [x] *Percentage* of progress of [ Day, Week, Month, Year ]
-- [x] Also nice design for "squared" watches, in my opinion
 
 #### **`Cake First Try`**
 | Key         | Value                                                                                                             |
