@@ -29,7 +29,6 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Circle`**](#cake-circle)
 * [**`Cake Uno v3`**](#cake-uno-v3)
-* [**`Cake Uno v3-Compass`**](#cake-uno-v3compass)
 * [**`Cake Uno v2`**](#cake-uno-v2)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake Binary`**](#cake-binary)
@@ -113,27 +112,6 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] The big red arrow on the outside points more precise to the current time (24h)
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
-
-#### **`Cake Uno v3-Compass`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **2024-06-07**                                                                                                    |
-| Updated     | **2024-06-07**                                                                                                    |
-| Website     | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5?watchModel=fossilqmarshal)                               |
-| Inspector   | [`AxUJlsK4l5`](https://www.facer.io/watchface/AxUJlsK4l5/inspect)                                                 |
-| Preview     | <a href="images/Cake Uno v3-Compass.png"><img src="images/Cake Uno v3-Compass.webp" alt="Cake Uno v3-Compass" /></a>|
-| Description | Similar to the watches with only one hand, but a bit optimized.. this is the `<b>Compass</b>` variant!            |
-
-##### Details
-Similar to the watches with only one hand, but a bit optimized.. this is the **`Compass`** variant!
-
-- [x] With a design smth. similar to "one hand" watches.. (but..)
-- [x] The digital time rotates around in the position of the analog clock (it's hour, in 24h design)
-- [x] Additionally to the time there is also the date (also rotating around with the time)
-- [x] The big red arrow on the outside points more precise to the current time (24h)
-- [x] One progress around the clock is the compass
-- [x] The other progress around is the watch battery level
-- [x] And in the middle a rotating compass
 
 #### **`Cake Uno v2`**
 | Key         | Value                                                                                                             |
