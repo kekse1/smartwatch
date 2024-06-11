@@ -80,7 +80,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-06-08**                                                                                                    |
-| Updated     | **2024-06-08**                                                                                                    |
+| Updated     | **2024-06-11**                                                                                                    |
 | Website     | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO?watchModel=fossilqmarshal)                               |
 | Inspector   | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO/inspect)                                                 |
 | Preview     | <a href="images/Cake Circle.png"><img src="images/Cake Circle.webp" alt="Cake Circle" /></a>                      |
