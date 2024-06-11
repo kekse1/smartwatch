@@ -97,7 +97,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-06-07**                                                                                                    |
-| Updated     | **2024-06-07**                                                                                                    |
+| Updated     | **2024-06-11**                                                                                                    |
 | Website     | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w?watchModel=fossilqmarshal)                               |
 | Inspector   | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w/inspect)                                                 |
 | Preview     | <a href="images/Cake Uno v3.png"><img src="images/Cake Uno v3.webp" alt="Cake Uno v3" /></a>                      |
