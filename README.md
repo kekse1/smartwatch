@@ -30,9 +30,9 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 * [**`Cake Circle`**](#cake-circle)
 * [**`Cake Uno v3`**](#cake-uno-v3)
 * [**`Cake Uno v2`**](#cake-uno-v2)
+* [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake Binary`**](#cake-binary)
-* [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake First Try`**](#cake-first-try)
 
 #### **`Cake View v2`**
@@ -136,6 +136,26 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
 
+#### **`Cake Second Try`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **10/2023**                                                                                                       |
+| Updated     | **2024-05-08**                                                                                                    |
+| Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                               |
+| Inspector   | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI/inspect)                                                 |
+| Preview     | <a href="images/Cake Second Try.png"><img src="images/Cake Second Try.webp" alt="Cake Second Try" /></a>          |
+| Description | My second try in designing own watch faces ..                                                                     |
+
+##### Details
+- [x] Digital time and date
+- [x] Analog time (**24h**) (w/ nice looking second progress)
+- [x] Analog Hour and Minute strings (plus arrows), positioned with sine and cosine (**24h**)
+- [x] Phone and Watch battery levels (text and tiny progresses)
+- [x] Red compass (progress) around the clock, and one in my favicon's rotation value
+- [x] Some (digital) weather information
+- [x] Heart beat rate (with sine animated heart icon)
+- [x] GPS Coordinates (Latitude, Longitude, Altitude)
+
 #### **`Cake Rotate v1`**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
@@ -177,26 +197,6 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] My favicon's transparency and rotation encodes the watch battery level
 - [x] Watch Battery level also in the outer progress beneath the compass
 - [x] A compass around the clock (blue progress)
-
-#### **`Cake Second Try`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **10/2023**                                                                                                       |
-| Updated     | **2024-05-08**                                                                                                    |
-| Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                               |
-| Inspector   | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI/inspect)                                                 |
-| Preview     | <a href="images/Cake Second Try.png"><img src="images/Cake Second Try.webp" alt="Cake Second Try" /></a>          |
-| Description | My second try in designing own watch faces ..                                                                     |
-
-##### Details
-- [x] Digital time and date
-- [x] Analog time (**24h**) (w/ nice looking second progress)
-- [x] Analog Hour and Minute strings (plus arrows), positioned with sine and cosine (**24h**)
-- [x] Phone and Watch battery levels (text and tiny progresses)
-- [x] Red compass (progress) around the clock, and one in my favicon's rotation value
-- [x] Some (digital) weather information
-- [x] Heart beat rate (with sine animated heart icon)
-- [x] GPS Coordinates (Latitude, Longitude, Altitude)
 
 #### **`Cake First Try`**
 | Key         | Value                                                                                                             |
