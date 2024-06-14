@@ -39,7 +39,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-04-07**                                                                                                    |
-| Updated     | **2024-06-03**                                                                                                    |
+| Updated     | **2024-06-14**                                                                                                    |
 | Website     | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO?watchModel=fossilqmarshal)                               |
 | Inspector   | [`R8dBeYEsYO`](https://www.facer.io/watchface/R8dBeYEsYO/inspect)                                                 |
 | Preview     | <a href="images/Cake View v2.png"><img src="images/Cake View v2.webp" alt="Cake View v2" /></a>                   |
@@ -62,7 +62,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-12-28**                                                                                                    |
-| Updated     | **2024-04-17**                                                                                                    |
+| Updated     | **2024-06-14**                                                                                                    |
 | Website     | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv?watchModel=fossilqmarshal)                               |
 | Inspector   | [`TUAAu6E5Hv`](https://www.facer.io/watchface/TUAAu6E5Hv/inspect)                                                 |
 | Preview     | <a href="images/Cake Rotate v2.png"><img src="images/Cake Rotate v2.webp" alt="Cake Rotate v2" /></a>             |
@@ -80,7 +80,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-06-08**                                                                                                    |
-| Updated     | **2024-06-11**                                                                                                    |
+| Updated     | **2024-06-14**                                                                                                    |
 | Website     | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO?watchModel=fossilqmarshal)                               |
 | Inspector   | [`a5hQVcvoNO`](https://www.facer.io/watchface/a5hQVcvoNO/inspect)                                                 |
 | Preview     | <a href="images/Cake Circle.png"><img src="images/Cake Circle.webp" alt="Cake Circle" /></a>                      |
@@ -89,7 +89,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 ##### Details
 - [x] Digital time and date, rotating around with the analog time (24h)
 - [x] The circles indicate the progresses of: Minute, Hour, Day, Week, Month and Year
-- [x] In the middle a heart icon and the average beat rate (sine/cosine)
+- [x] In the middle a heart icon with the average beat rate (sine/cosine)
 - [x] The both *thin* circles/progresses on the outside are battery and compass
 - [x] The big, rotating arrow points to the analog time (24h) more precise
 
@@ -140,7 +140,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **10/2023**                                                                                                       |
-| Updated     | **2024-05-08**                                                                                                    |
+| Updated     | **2024-06-14**                                                                                                    |
 | Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                               |
 | Inspector   | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI/inspect)                                                 |
 | Preview     | <a href="images/Cake Second Try.png"><img src="images/Cake Second Try.webp" alt="Cake Second Try" /></a>          |
@@ -160,7 +160,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-12-26**                                                                                                    |
-| Updated     | **2024-04-17**                                                                                                    |
+| Updated     | **2024-06-14**                                                                                                    |
 | Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                               |
 | Inspector   | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm/inspect)                                                 |
 | Preview     | <a href="images/Cake Rotate v1.png"><img src="images/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>             |
@@ -179,7 +179,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-11-20**                                                                                                    |
-| Updated     | **2024-06-03**                                                                                                    |
+| Updated     | **2024-06-14**                                                                                                    |
 | Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                               |
 | Inspector   | [`epWBfMhr92`](https://www.facer.io/watchface/epwBfMhr92/inspect)                                                 |
 | Preview     | <a href="images/Cake Binary.png"><img src="images/Cake Binary.webp" alt="Cake Binary" /></a>                      |
@@ -202,7 +202,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **10/2023**                                                                                                       |
-| Updated     | **2024-04-17**                                                                                                    |
+| Updated     | **2024-06-14**                                                                                                    |
 | Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                               |
 | Inspector   | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH/inspect)                                                 |
 | Preview     | <a href="images/Cake First Try.png"><img src="images/Cake First Try.webp" alt="Cake First Try" /></a>             |
