@@ -140,7 +140,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **10/2023**                                                                                                       |
-| Updated     | **2024-06-14**                                                                                                    |
+| Updated     | **2024-06-15**                                                                                                    |
 | Website     | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI?watchModel=fossilqmarshal)                               |
 | Inspector   | [`nyWyzHmJeI`](https://www.facer.io/watchface/nyWyzHmJeI/inspect)                                                 |
 | Preview     | <a href="images/Cake Second Try.png"><img src="images/Cake Second Try.webp" alt="Cake Second Try" /></a>          |
