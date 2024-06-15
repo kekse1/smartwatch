@@ -160,7 +160,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-12-26**                                                                                                    |
-| Updated     | **2024-06-14**                                                                                                    |
+| Updated     | **2024-06-15**                                                                                                    |
 | Website     | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm?watchModel=fossilqmarshal)                               |
 | Inspector   | [`fTzAhsSKqm`](https://www.facer.io/watchface/fTzAhsSKqm/inspect)                                                 |
 | Preview     | <a href="images/Cake Rotate v1.png"><img src="images/Cake Rotate v1.webp" alt="Cake Rotate v1" /></a>             |
