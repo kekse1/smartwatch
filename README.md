@@ -202,7 +202,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **10/2023**                                                                                                       |
-| Updated     | **2024-06-14**                                                                                                    |
+| Updated     | **2024-06-15**                                                                                                    |
 | Website     | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH?watchModel=fossilqmarshal)                               |
 | Inspector   | [`HiMnnIpJCH`](https://www.facer.io/watchface/HiMnnIpJCH/inspect)                                                 |
 | Preview     | <a href="images/Cake First Try.png"><img src="images/Cake First Try.webp" alt="Cake First Try" /></a>             |
