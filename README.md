@@ -179,7 +179,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-11-20**                                                                                                    |
-| Updated     | **2024-06-14**                                                                                                    |
+| Updated     | **2024-06-15**                                                                                                    |
 | Website     | [`epwBfMhr92`](https://www.facer.io/watchface/epwBfMhr92?watchModel=fossilqmarshal)                               |
 | Inspector   | [`epWBfMhr92`](https://www.facer.io/watchface/epwBfMhr92/inspect)                                                 |
 | Preview     | <a href="images/Cake Binary.png"><img src="images/Cake Binary.webp" alt="Cake Binary" /></a>                      |
