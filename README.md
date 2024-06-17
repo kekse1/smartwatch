@@ -97,7 +97,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-06-07**                                                                                                    |
-| Updated     | **2024-06-11**                                                                                                    |
+| Updated     | **2024-06-17**                                                                                                    |
 | Website     | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w?watchModel=fossilqmarshal)                               |
 | Inspector   | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w/inspect)                                                 |
 | Preview     | <a href="images/Cake Uno v3.png"><img src="images/Cake Uno v3.webp" alt="Cake Uno v3" /></a>                      |
@@ -112,6 +112,7 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] The big red arrow on the outside points more precise to the current time (24h)
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
+- [x] And three arrows to indicate progress of Year (outside), Month (green) and Week (blue)
 
 #### **`Cake Uno v2`**
 | Key         | Value                                                                                                             |
