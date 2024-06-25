@@ -28,8 +28,8 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Circle`**](#cake-circle)
-* [**`Cake Uno v4`**](#cake-uno-v4)
 * [**`Cake Uno v2`**](#cake-uno-v2)
+* [**`Cake Uno v4`**](#cake-uno-v4)
 * [**`Cake Second Try`**](#cake-second-try)
 * [**`Cake Rotate v1`**](#cake-rotate-v1)
 * [**`Cake Binary`**](#cake-binary)
@@ -93,23 +93,6 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] The both *thin* circles/progresses on the outside are battery and compass
 - [x] The big, rotating arrow points to the analog time (24h) more precise
 
-#### **`Cake Uno v4`**
-| Key         | Value                                                                                                             |
-| ----------: | :---------------------------------------------------------------------------------------------------------------- |
-| Created     | **2024-06-07**                                                                                                    |
-| Updated     | **2024-06-17**                                                                                                    |
-| Website     | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w?watchModel=fossilqmarshal)                               |
-| Inspector   | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w/inspect)                                                 |
-| Preview     | <a href="images/Cake Uno v4.png"><img src="images/Cake Uno v4.webp" alt="Cake Uno v4" /></a>                      |
-| Description | It's a `Uno` watch in the sense that i only got one hand for the hours and none for minutes and seconds.. the rest is improvisation and optimization.|
-
-##### Details
-- [x] The whole DIGITAL time/date rotate around with the (24!) hours in a day
-- [x] Plus an additional hand for it (orange)
-- [x] The progress of year (blue), month (green) and ween (yellow) in their own hands
-- [x] The blue progress on the outside is a compass
-- [x] The yellow progress on the outside is the watch battery indicator
-
 #### **`Cake Uno v2`**
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
@@ -132,6 +115,23 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] In the center you'll see your heart beat (average?)
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
+
+#### **`Cake Uno v4`**
+| Key         | Value                                                                                                             |
+| ----------: | :---------------------------------------------------------------------------------------------------------------- |
+| Created     | **2024-06-07**                                                                                                    |
+| Updated     | **2024-06-17**                                                                                                    |
+| Website     | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w?watchModel=fossilqmarshal)                               |
+| Inspector   | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w/inspect)                                                 |
+| Preview     | <a href="images/Cake Uno v4.png"><img src="images/Cake Uno v4.webp" alt="Cake Uno v4" /></a>                      |
+| Description | It's a `Uno` watch in the sense that i only got one hand for the hours and none for minutes and seconds.. the rest is improvisation and optimization.|
+
+##### Details
+- [x] The whole DIGITAL time/date rotate around with the (24!) hours in a day
+- [x] Plus an additional hand for it (orange)
+- [x] The progress of year (blue), month (green) and ween (yellow) in their own hands
+- [x] The blue progress on the outside is a compass
+- [x] The yellow progress on the outside is the watch battery indicator
 
 #### **`Cake Second Try`**
 | Key         | Value                                                                                                             |
