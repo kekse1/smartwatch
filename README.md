@@ -120,7 +120,7 @@ Similar to the watches with only one hand, but a bit optimized..
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-06-07**                                                                                                    |
-| Updated     | **2024-06-17**                                                                                                    |
+| Updated     | **2024-06-27**                                                                                                    |
 | Website     | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w?watchModel=fossilqmarshal)                               |
 | Inspector   | [`CWbow8Ne6w`](https://www.facer.io/watchface/CWbow8Ne6w/inspect)                                                 |
 | Preview     | <a href="images/Cake Uno v4.png"><img src="images/Cake Uno v4.webp" alt="Cake Uno v4" /></a>                      |
