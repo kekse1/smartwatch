@@ -214,6 +214,9 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] Digital time and the date (partially Strings)
 - [x] A compass (red progress around the clock)
 
+## Other designers (my Favorites)
+* https://www.facer.io/u/mikeob
+
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
 and it's licensed under the [MIT](LICENSE.txt) (also known as 'X' or 'X11' license).
