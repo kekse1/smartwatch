@@ -25,6 +25,7 @@ The **Inspector** is available for any of these.. there you'll my 'source codes'
 interesting for you, because there is sometimes 'many' maths hidden in there; inter alia
 all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
+### Index
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
 * [**`Cake Second Try`**](#cake-second-try)
@@ -35,7 +36,9 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake First Try`**](#cake-first-try)
 
-#### **`Cake View v2`**
+
+<img id="cake-view-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20View%20v2" />
+
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-04-07**                                                                                                    |
@@ -58,7 +61,9 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] Heart Beat (w/ sine animated icon)
 - [x] "Everything" as a progress (see how far time has come... ;-)
 
-#### **`Cake Rotate v2`**
+
+<img id="cake-rotate-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Rotate%20v2" />
+
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-12-28**                                                                                                    |
@@ -76,7 +81,9 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] The digital Date with weekday on the top/right
 - [x] *Percentage* of progress of [ Minute, Hour, Day, Week, Month, Year ], this time round alignment(!)
 
-#### **`Cake Second Try`**
+
+<img id="cake-second-try" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Second%20Try" />
+
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **10/2023**                                                                                                       |
@@ -96,7 +103,9 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] Heart beat rate (with sine animated heart icon)
 - [x] GPS Coordinates (Latitude, Longitude, Altitude)
 
-#### **`Cake Circle`**
+
+<img id="cake-circle" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Circle" />
+
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-06-08**                                                                                                    |
@@ -113,7 +122,9 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] The both *thin* circles/progresses on the outside are battery and compass
 - [x] The big, rotating arrow points to the analog time (24h) more precise
 
-#### **`Cake Uno v2`**
+
+<img id="cake-uno-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Uno%20v2" />
+
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **11/2023**                                                                                                       |
@@ -136,7 +147,9 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
 
-#### **`Cake Uno v4`**
+
+<img id="cake-uno-v4" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Uno%20v4" />
+
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2024-06-07**                                                                                                    |
@@ -153,7 +166,9 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] The blue progress on the outside is a compass
 - [x] The yellow progress on the outside is the watch battery indicator
 
-#### **`Cake Rotate v1`**
+
+<img id="cake-rotate-v1" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Rotate%20v1" />
+
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-12-26**                                                                                                    |
@@ -172,7 +187,9 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] *Percentage* of progress of [ Day, Week, Month, Year ]
 - [x] Also nice design for "squared" watches, in my opinion
 
-#### **`Cake Binary`**
+
+<img id="cake-binary" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Binary" />
+
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **2023-11-20**                                                                                                    |
@@ -195,7 +212,9 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] Watch Battery level also in the outer progress beneath the compass
 - [x] A compass around the clock (blue progress)
 
-#### **`Cake First Try`**
+
+<img id="cake-first-try" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20First%20Try" />
+
 | Key         | Value                                                                                                             |
 | ----------: | :---------------------------------------------------------------------------------------------------------------- |
 | Created     | **10/2023**                                                                                                       |
@@ -213,6 +232,9 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] Weather and Moon phase icons on the top
 - [x] Digital time and the date (partially Strings)
 - [x] A compass (red progress around the clock)
+
+## Other designers (my Favorites)
+* https://www.facer.io/u/mikeob
 
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
