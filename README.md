@@ -37,6 +37,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 * [**`Cake First Try`**](#cake-first-try)
 
 
+## Cake View v2
 <a href="images/Cake View v2.png">
 <img id="cake-view-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20View%20v2" />
 </a>
@@ -64,6 +65,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] "Everything" as a progress (see how far time has come... ;-)
 
 
+## Cake Rotate v2
 <a href="images/Cake Rotate v2.png">
 <img id="cake-rotate-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Rotate%20v2" />
 </a>
@@ -86,6 +88,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] *Percentage* of progress of [ Minute, Hour, Day, Week, Month, Year ], this time round alignment(!)
 
 
+## Cake Second Try
 <a href="images/Cake Second Try.png">
 <img id="cake-second-try" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Second%20Try" />
 </a>
@@ -110,6 +113,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] GPS Coordinates (Latitude, Longitude, Altitude)
 
 
+## Cake Circle
 <a href="images/Cake Circle.png">
 <img id="cake-circle" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Circle" />
 </a>
@@ -131,6 +135,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] The big, rotating arrow points to the analog time (24h) more precise
 
 
+## Cake Uno v2
 <a href="images/Cake Uno v2.png">
 <img id="cake-uno-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Uno%20v2" />
 </a>
@@ -158,6 +163,7 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] The other progress around is the watch battery level
 
 
+## Cake Uno v4
 <a href="images/Cake Uno v4.png">
 <img id="cake-uno-v4" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Uno%20v4" />
 </a>
@@ -179,6 +185,7 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] The yellow progress on the outside is the watch battery indicator
 
 
+## Cake Rotate v1
 <a href="images/Cake Rotate v1.png">
 <img id="cake-rotate-v1" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Rotate%20v1" />
 </a>
@@ -202,6 +209,7 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] Also nice design for "squared" watches, in my opinion
 
 
+## Cake Binary
 <a href="images/Cake Binary.png">
 <img id="cake-binary" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Binary" />
 </a>
@@ -229,6 +237,7 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] A compass around the clock (blue progress)
 
 
+## Cake First Try
 <a href="images/Cake First Try.png">
 <img id="cake-first-try" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20First%20Try" />
 </a>
