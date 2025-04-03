@@ -45,7 +45,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 ## Cake View v2
 <a href="images/Cake View v2.png">
-<img id="cake-view-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20View%20v2" />
+<img id="cake-view-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=32&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20View%20v2" />
 </a>
 
 | Key         | Value                                                                                                             |
