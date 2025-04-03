@@ -3,6 +3,8 @@
 My mother has bought me a smartwatch to my birthday [2023], so
 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware) now.
 
+<br><br>
+
 ## My ["**Biscuits**" Collection](https://www.facer.io/collection/cake-collection-8e8db4066b)
 Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s).
@@ -12,6 +14,7 @@ absolutely for free (even if not everything is for free there).
 
 I'm also presenting them on my [private website](https://kekse.biz/?~smartwatch),
 and on my [Facer **kekse** profile](https://www.facer.io/u/kekse). .. AND here:
+<br>
 ## [**`biscuits.casa`**](https://biscuits.casa/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,6 +28,8 @@ The **Inspector** is available for any of these.. there you'll my 'source codes'
 interesting for you, because there is sometimes 'many' maths hidden in there; inter alia
 all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
+<br><br>
+
 ### Index
 * [**`Cake View v2`**](#cake-view-v2)
 * [**`Cake Rotate v2`**](#cake-rotate-v2)
@@ -36,6 +41,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake First Try`**](#cake-first-try)
 
+<br><br><br><br>
 
 ## Cake View v2
 <a href="images/Cake View v2.png">
@@ -64,6 +70,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] Heart Beat (w/ sine animated icon)
 - [x] "Everything" as a progress (see how far time has come... ;-)
 
+<br><br>
 
 ## Cake Rotate v2
 <a href="images/Cake Rotate v2.png">
@@ -87,6 +94,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] The digital Date with weekday on the top/right
 - [x] *Percentage* of progress of [ Minute, Hour, Day, Week, Month, Year ], this time round alignment(!)
 
+<br><br>
 
 ## Cake Second Try
 <a href="images/Cake Second Try.png">
@@ -112,6 +120,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] Heart beat rate (with sine animated heart icon)
 - [x] GPS Coordinates (Latitude, Longitude, Altitude)
 
+<br><br>
 
 ## Cake Circle
 <a href="images/Cake Circle.png">
@@ -134,6 +143,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 - [x] The both *thin* circles/progresses on the outside are battery and compass
 - [x] The big, rotating arrow points to the analog time (24h) more precise
 
+<br><br>
 
 ## Cake Uno v2
 <a href="images/Cake Uno v2.png">
@@ -162,6 +172,7 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] One progress around the clock is the compass
 - [x] The other progress around is the watch battery level
 
+<br><br>
 
 ## Cake Uno v4
 <a href="images/Cake Uno v4.png">
@@ -184,6 +195,7 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] The blue progress on the outside is a compass
 - [x] The yellow progress on the outside is the watch battery indicator
 
+<br><br>
 
 ## Cake Rotate v1
 <a href="images/Cake Rotate v1.png">
@@ -208,6 +220,7 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] *Percentage* of progress of [ Day, Week, Month, Year ]
 - [x] Also nice design for "squared" watches, in my opinion
 
+<br><br>
 
 ## Cake Binary
 <a href="images/Cake Binary.png">
@@ -236,6 +249,7 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] Watch Battery level also in the outer progress beneath the compass
 - [x] A compass around the clock (blue progress)
 
+<br><br>
 
 ## Cake First Try
 <a href="images/Cake First Try.png">
@@ -260,8 +274,12 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] Digital time and the date (partially Strings)
 - [x] A compass (red progress around the clock)
 
+<br><br>
+
 ## Other designers (my Favorites)
 * https://www.facer.io/u/mikeob
+
+<br><br>
 
 # Contact
 <img src="https://kekse.biz/github.php?override=github:smartwatch&draw&text=smartwatch@kekse.biz&angle=6&size=38pt&fg=150,20,90&font=OpenSans&ro&readonly&h=64&v=16" />
