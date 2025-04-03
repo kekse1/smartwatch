@@ -45,7 +45,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 ## Cake View v2
 <a href="images/Cake View v2.png">
-<img id="cake-view-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20View%20v2" />
+<img id="cake-view-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20View%20v2" />
 </a>
 
 | Key         | Value                                                                                                             |
@@ -74,7 +74,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 ## Cake Rotate v2
 <a href="images/Cake Rotate v2.png">
-<img id="cake-rotate-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Rotate%20v2" />
+<img id="cake-rotate-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Rotate%20v2" />
 </a>
 
 | Key         | Value                                                                                                             |
@@ -98,7 +98,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 ## Cake Second Try
 <a href="images/Cake Second Try.png">
-<img id="cake-second-try" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Second%20Try" />
+<img id="cake-second-try" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Second%20Try" />
 </a>
 
 | Key         | Value                                                                                                             |
@@ -124,7 +124,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 ## Cake Circle
 <a href="images/Cake Circle.png">
-<img id="cake-circle" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Circle" />
+<img id="cake-circle" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Circle" />
 </a>
 
 | Key         | Value                                                                                                             |
@@ -147,7 +147,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
 ## Cake Uno v2
 <a href="images/Cake Uno v2.png">
-<img id="cake-uno-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Uno%20v2" />
+<img id="cake-uno-v2" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Uno%20v2" />
 </a>
 
 | Key         | Value                                                                                                             |
@@ -176,7 +176,7 @@ Similar to the watches with only one hand, but a bit optimized..
 
 ## Cake Uno v4
 <a href="images/Cake Uno v4.png">
-<img id="cake-uno-v4" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Uno%20v4" />
+<img id="cake-uno-v4" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Uno%20v4" />
 </a>
 
 | Key         | Value                                                                                                             |
@@ -199,7 +199,7 @@ Similar to the watches with only one hand, but a bit optimized..
 
 ## Cake Rotate v1
 <a href="images/Cake Rotate v1.png">
-<img id="cake-rotate-v1" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Rotate%20v1" />
+<img id="cake-rotate-v1" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Rotate%20v1" />
 </a>
 
 | Key         | Value                                                                                                             |
@@ -224,7 +224,7 @@ Similar to the watches with only one hand, but a bit optimized..
 
 ## Cake Binary
 <a href="images/Cake Binary.png">
-<img id="cake-binary" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Binary" />
+<img id="cake-binary" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20Binary" />
 </a>
 
 | Key         | Value                                                                                                             |
@@ -253,7 +253,7 @@ Similar to the watches with only one hand, but a bit optimized..
 
 ## Cake First Try
 <a href="images/Cake First Try.png">
-<img id="cake-first-try" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20First%20Try" />
+<img id="cake-first-try" src="https://kekse.biz/github.php?override=github:smartwatch&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Cake%20First%20Try" />
 </a>
 
 | Key         | Value                                                                                                             |
