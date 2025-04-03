@@ -28,7 +28,7 @@ The **Inspector** is available for any of these.. there you'll my 'source codes'
 interesting for you, because there is sometimes 'many' maths hidden in there; inter alia
 all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
-<br><br>
+<br>
 
 ### Index
 * [**`Cake View v2`**](#cake-view-v2)
@@ -41,7 +41,7 @@ all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 * [**`Cake Binary`**](#cake-binary)
 * [**`Cake First Try`**](#cake-first-try)
 
-<br><br><br><br>
+<br><br><br>
 
 ## Cake View v2
 <a href="images/Cake View v2.png">
