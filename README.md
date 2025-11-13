@@ -278,6 +278,8 @@ Similar to the watches with only one hand, but a bit optimized..
 
 ## Other designers (my Favorites)
 * https://www.facer.io/u/mikeob
+* https://www.facer.io/u/generatorstudios
+* https://www.facer.io/user/3X6Beb9FQL
 
 <br><br>
 
