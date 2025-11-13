@@ -24,7 +24,7 @@ and on my [Facer **kekse** profile](https://www.facer.io/u/kekse). .. AND here:
 I made them all 'from scratch', as usual. Some are better, some are merely tryouts..
 and here they are, with the original, animated `.webp` images (plus some transparency).
 
-The **Inspector** is available for any of these.. there you'll my 'source codes' (maybe
+The **Inspector** is available for all of these.. there you'll my 'source codes' (maybe
 interesting for you, because there is sometimes 'many' maths hidden in there; inter alia
 all the rules of three, or even the sine and cosine positionings, etc.)! **;)~**
 
