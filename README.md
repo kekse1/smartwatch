@@ -274,17 +274,19 @@ Similar to the watches with only one hand, but a bit optimized..
 - [x] Digital time and the date (partially Strings)
 - [x] A compass (red progress around the clock)
 
-<br><br>
+<br><br><br>
 
 ## Other designers (my Favorites)
 * https://www.facer.io/u/mikeob
 * https://www.facer.io/u/generatorstudios
 * https://www.facer.io/user/3X6Beb9FQL
 
-<br><br>
+<br><br><br><br>
 
 # Contact
 <img src="https://kekse.biz/github.php?override=github:smartwatch&draw&text=smartwatch@kekse.biz&angle=6&size=38pt&fg=150,20,90&font=OpenSans&ro&readonly&h=64&v=16" />
+
+<br>
 
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
