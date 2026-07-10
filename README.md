@@ -1,3 +1,4 @@
+<img src="without.svg" /><br>
 <img src="https://kekse.biz/github.php?draw&override=github:smartwatch" />
 
 My mother has bought me a smartwatch to my birthday [2023], so
